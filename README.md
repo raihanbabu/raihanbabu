@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Raihan (:computer:)
+<div style="text-align: center;">
+	# 👋 Hi, I'm Raihan (:computer:)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=40&lines=Nice+to+meet+you...;WordPress+Developer.;Elementor+Pro+Expert.)](https://git.io/typing-svg)
+</div>
 
 <!--
 **raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
