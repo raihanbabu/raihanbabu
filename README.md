@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 	# 👋 Hi, I'm Raihan (:computer:)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=40&lines=Nice+to+meet+you...;WordPress+Developer.;Elementor+Pro+Expert.)](https://git.io/typing-svg)
 </div>
