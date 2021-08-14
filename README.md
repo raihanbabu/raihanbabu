@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Raihan (:computer:)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?height=40&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer.;Elementor+Pro+Expert.;And+more...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?height=40&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer;Elementor+Pro+Expert;And+more...)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/raihanbabubd">
+    <img alt="Raihan Babu Upwork" title="WordPress Developer Upwork Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1280px-Upwork-logo.svg.png"/></a> 
+  <a href="https://www.fiverr.com/wordpress48hour">
+    <img alt="Raihan Babu Fiverr" title="WordPress Developer Fiverr Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png"/></a> 
+</p>
 
 <!--
 **raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
