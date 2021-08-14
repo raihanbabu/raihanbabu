@@ -1,4 +1,4 @@
-# Hello, I'm Raihan 👋. [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you...;WordPress+Developer.;Elementor+Pro+Expert.)](https://git.io/typing-svg)
+# Hello, I'm Raihan 👋. [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=40&lines=Nice+to+meet+you...;WordPress+Developer.;Elementor+Pro+Expert.)](https://git.io/typing-svg)
 
 <!--
 **raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
