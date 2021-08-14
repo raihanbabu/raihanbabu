@@ -3,9 +3,9 @@
 
 <p>
   <a href="https://www.upwork.com/freelancers/raihanbabubd">
-    <img alt="Raihan Babu Upwork" title="WordPress Developer Upwork Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1280px-Upwork-logo.svg.png" style="width: 150px;margin-right: 15px;"/></a> 
+    <img alt="Raihan Babu Upwork" title="WordPress Developer Upwork Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1280px-Upwork-logo.svg.png" width="150px" /></a> 
   <a href="https://www.fiverr.com/wordpress48hour">
-    <img alt="Raihan Babu Fiverr" title="WordPress Developer Fiverr Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" style="width: 150px;margin-right: 15px;"/></a> 
+    <img alt="Raihan Babu Fiverr" title="WordPress Developer Fiverr Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" width="150px" /></a> 
 </p>
 
 <!--
