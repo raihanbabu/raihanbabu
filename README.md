@@ -34,25 +34,25 @@ Professional experienced in WordPress development for more than a half-decade he
 
 ### His experienced 
 
-##### ✧ Hosting setup (DNS, etc)
-#### ✧ Website set-up, launch site & Migration
-#### ✧ Responsive web design
-#### ✧ Figma/Sketch/Adobe XD/Zeplin/Miro/PSD to WordPress
-#### ✧ WordPress ecosystem (plugins, themes, widgets, bug fixes)
-#### ✧ Elementor Pro, WP Bakery & Oxygen
-#### ✧ Especially PHP and MySQL
-#### ✧ Website Optimization & Page Speed Optimization
-#### ✧ WordPress Malware Removal, Troubleshooting, debugging
-#### ✧ Setting up Google Analytics tools, an XML sitemap, & SEO support
-#### ✧ WordPress Multisite
-#### ✧ WordPress Developer Support
-#### ✧ API Integration
-#### ✧ & maintenance
+✧ Hosting setup (DNS, etc)
+✧ Website set-up, launch site & Migration
+✧ Responsive web design
+✧ Figma/Sketch/Adobe XD/Zeplin/Miro/PSD to WordPress
+✧ WordPress ecosystem (plugins, themes, widgets, bug fixes)
+✧ Elementor Pro, WP Bakery & Oxygen
+✧ Especially PHP and MySQL
+✧ Website Optimization & Page Speed Optimization
+✧ WordPress Malware Removal, Troubleshooting, debugging
+✧ Setting up Google Analytics tools, an XML sitemap, & SEO support
+✧ WordPress Multisite
+✧ WordPress Developer Support
+✧ API Integration
+✧ & maintenance
 
-#### He is a resilient hard-working individual who is self-motivated, detail-oriented & passionate about trying new things & learning new skills quickly and have the ability to build great Teamwork and utilize his strengths.
+He is a resilient hard-working individual who is self-motivated, detail-oriented & passionate about trying new things & learning new skills quickly and have the ability to build great Teamwork and utilize his strengths.
 
-#### Thank you for your time and consideration. look forward to speaking with you.
+Thank you for your time and consideration. look forward to speaking with you.
 
-#### Sincerely,
-#### Raihan
+Sincerely,
+Raihan
 
