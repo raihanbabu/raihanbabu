@@ -8,7 +8,7 @@
     <img alt="Raihan Babu Upwork" title="WordPress Developer Upwork Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/250px-Upwork_Logo.svg.png" width="200px" /></a> 
 <!--  <a href="https://www.fiverr.com/wordpress48hour">
     <img alt="Raihan Babu Fiverr" title="WordPress Developer Fiverr Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" width="200px" /></a> -->
-    - 
+    -:- 
 <a href="https://www.linkedin.com/in/raihanbabu">
     <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" /></a> 
 </p>
