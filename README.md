@@ -1,6 +1,6 @@
 ## 👋 Welcome to my profile!!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?height=40&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer;Elementor+Pro+Expert;And+more...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?height=1500&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer;Elementor+Pro+Expert;And+more...)](https://git.io/typing-svg)
 
 ### ⓦ Experienced Web developer #shopify #wordpress #hubspot
 
