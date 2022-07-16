@@ -1,4 +1,4 @@
-## 👋 Welcome to my profile!!!
+## 👋 Welcome!!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer;Elementor+Pro+Expert;And+more...)](https://git.io/typing-svg)
 
