@@ -34,7 +34,7 @@ Professional experienced in WordPress development for more than a half-decade he
 
 ### His experienced 
 
-###### ✧ Hosting setup (DNS, etc)
+##### ✧ Hosting setup (DNS, etc)
 #### ✧ Website set-up, launch site & Migration
 #### ✧ Responsive web design
 #### ✧ Figma/Sketch/Adobe XD/Zeplin/Miro/PSD to WordPress
