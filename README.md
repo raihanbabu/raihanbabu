@@ -27,3 +27,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+♛ Top Rated by Upwork 👇🏼
+
+Professional experienced in WordPress development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
+
+### His experienced 
+
+✧ Hosting setup (DNS, etc)
+✧ Website set-up, launch site & Migration
+✧ Responsive web design
+✧ Figma/Sketch/Adobe XD/Zeplin/Miro/PSD to WordPress
+✧ WordPress ecosystem (plugins, themes, widgets, bug fixes)
+✧ Elementor Pro, WP Bakery & Oxygen
+✧ Especially PHP and MySQL
+✧ Website Optimization & Page Speed Optimization
+✧ WordPress Malware Removal, Troubleshooting, debugging
+✧ Setting up Google Analytics tools, an XML sitemap, & SEO support
+✧ WordPress Multisite
+✧ WordPress Developer Support
+✧ API Integration
+✧ & maintenance
+
+He is a resilient hard-working individual who is self-motivated, detail-oriented & passionate about trying new things & learning new skills quickly and have the ability to build great Teamwork and utilize his strengths.
+
+Thank you for your time and consideration. look forward to speaking with you.
+
+Sincerely,
+Raihan
