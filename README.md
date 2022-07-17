@@ -30,7 +30,7 @@
 
 ♛ Top Rated by [Upwork](https://www.upwork.com/freelancers/raihanbabu) 👇🏼
 
-Professional experienced in WordPress development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
+Professional experienced in WordPress, Shopify & HubSpot development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
 
 He is a resilient hard-working individual who is self-motivated, detail-oriented & passionate about trying new things & learning new skills quickly and have the ability to build great Teamwork and utilize his strengths.
 
@@ -42,7 +42,7 @@ Raihan
 
 ## Skills
 
-* #WordPress #HubSpot #PHP #JavaScript #Git
+* PHP, JavaScript, Git, Python, SQL, WordPress, HubSpot, Shopify
 
 * Hosting setup (DNS, etc)
 * Website set-up, launch site & Migration
@@ -50,12 +50,10 @@ Raihan
 * Figma/Sketch/Adobe XD/Zeplin/Miro/PSD to WordPress
 * WordPress ecosystem (plugins, themes, widgets, bug fixes)
 * Elementor Pro, WP Bakery & Oxygen
-* Especially PHP and MySQL
 * Website Optimization & Page Speed Optimization
-* WordPress Malware Removal, Troubleshooting, debugging
+* Malware Removal, Troubleshooting, debugging
 * Setting up Google Analytics tools, an XML sitemap, & SEO support
-* WordPress Multisite
-* WordPress Developer Support
+* Multisite & Developer Support
 * API Integration
 * & maintenance
 
