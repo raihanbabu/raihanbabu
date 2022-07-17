@@ -41,7 +41,7 @@ Sincerely,
 Raihan
 
 ## Skills
-
+```
 * HubSpot, WordPress, Shopify, PHP, JavaScript, Git, Python, SQL
 
 * Hosting setup (DNS, etc)
@@ -56,6 +56,7 @@ Raihan
 * Multisite & Developer Support
 * API Integration
 * & maintenance
+```
 
 ## Certificate List
 * [CSS certified by HackerRank](https://www.hackerrank.com/certificates/0c8afdd1da79)
