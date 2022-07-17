@@ -56,6 +56,7 @@ Thank you for your time and consideration. look forward to speaking with you.
 Sincerely,
 
 Raihan
+![Algorithm schema](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/284275710_1877682365755339_7400682694355318265_n.jpg?stp=c471.391.696.695a_dst-jpg_s160x160&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Q8oEr65If1wAX8ILKWF&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9gLI3G6NJHsIgf9FlDico1Wbw43aJ3SaNx5NHqTAC45Q&oe=62D7FA96)
 
 ## His experienced
 
