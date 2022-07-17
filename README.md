@@ -20,9 +20,10 @@
 * [About](#about)
 * [Skills](#skills)
 * [Certificate](#certificate)
+* [Contributing](#contributing)
 * [His experienced](#his-experienced)
 * [Work experienced](#-work-experienced)
-* [🤗 Contributing](#-contributing)
+* [Recent work](#recnet-work)
 * [Services](#services)
 * [Free Remote Consultations Available👇🏼](#-free-remote-consultations-available)
 
@@ -65,6 +66,12 @@ Raihan
 * [Certified HubSpot CMS Developer](https://app.hubspot.com/academy/achievements/kbp4lkyv/en/1/raihan-babu/hubspot-cms-for-developers)
 * [The Basics of Maintaining Client Sites at Scale](https://academy.kinsta.com/certificate/fec07151-9d51-431b-9aed-3d04c74aaf8e/pdf/The%20Basics%20of%20Maintaining%20Client%20Sites%20at%20Scale)
 
+## Contributing
+```
+* Micro Sponsors in WordCamp Dhaka
+* Event organizer in Satkhira WordPress Meetup.
+```
+
 ## 🔭 Work experienced
 
 ### Web Developer | TFC Marketing
@@ -88,6 +95,15 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * Shopify Developer Support
 * Landing page developer
 ```
+
+## Recent work
+* [Muso | Book Live Entertainment Across Australia](https://muso.live)
+* [Yoga &amp; Travel wellness | Breathe stretch Take off](https://flexnfly.com)
+* [Organise live entertainment in minutes | Muso UK](https://muso.live/uk)
+* [Sell My House Fast Or Hold Onto The Property?](https://fastesthomesale.com)
+* [Buying Apartment Buildings](https://buyingapartmentbuildings.com)
+* [Savvy Pioneer | Your Partner In Marketing Technology (MarTech)](https://www.savvypioneer.com)
+* [We Buy Apartment Complexes &amp; Buildings | Easy Apartments Buyer](https://easyapartmentsbuyer.com)
 
 ## 📫 Free Remote Consultations Available
 
