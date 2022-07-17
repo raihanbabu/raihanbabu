@@ -86,12 +86,12 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 
 His achieved:
 
-– building custom theme & plugin
-– customizing theme & plugin
-– install or migrate your site
-– optimizing speed, performance
-– security & hacking clean-up
-– on-going maintenance
+* building custom theme & plugin
+* customizing theme & plugin
+* install or migrate your site
+* optimizing speed, performance
+* security & hacking clean-up
+* on-going maintenance
 
 ## Services
 * Web design and development
