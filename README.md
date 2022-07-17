@@ -30,7 +30,7 @@
 
 ♛ Top Rated by [Upwork](https://www.upwork.com/freelancers/raihanbabu) 👇🏼
 
-Professional experienced in WordPress, Shopify & HubSpot development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
+Professional experienced in ✨ WordPress, Shopify & HubSpot ✨ development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
 
 He is a resilient hard-working individual who is self-motivated, detail-oriented & passionate about trying new things & learning new skills quickly and have the ability to build great Teamwork and utilize his strengths.
 
@@ -109,17 +109,17 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [Instagram](https://www.instagram.com/raihanbabubd)
 * [Facebook](https://www.facebook.com/raihanbabubd)
 
+**raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
   Join Zoom Meeting
   https://us04web.zoom.us/j/9653857223?pwd=ZUdsbWFRMUZtQStydWJFUjloRUt3Zz09
 
   Meeting ID: 965 385 7223
   Passcode: 3F94F5
--->
 
-<!-- ![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4)
+![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4)
 
-**raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -133,9 +133,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+https://github.com/DenverCoder1/readme-typing-svg
+
 -->
