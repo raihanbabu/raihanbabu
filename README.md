@@ -42,7 +42,7 @@ Raihan
 
 ## Skills
 
-* PHP, JavaScript, Git, Python, SQL, WordPress, HubSpot, Shopify
+* HubSpot, WordPress, Shopify, PHP, JavaScript, Git, Python, SQL
 
 * Hosting setup (DNS, etc)
 * Website set-up, launch site & Migration
@@ -70,21 +70,22 @@ Raihan
 He has been working as a web developer at tfc.marketing. he is a resilient hard-working individual who is self-motivated & passionate about learning new skills quickly & having the ability to build a great relationship. he is seeking a position where he can grow with the company and utilize his strengths.
 
 #### His achieved:
-
+```
 * building custom theme & plugin
 * customizing theme & plugin
 * install or migrate your site
 * optimizing speed, performance
 * security & hacking clean-up
 * on-going maintenance
+```
 
 ## Services
 
+* HubSpot Developer Support
 * WordPress Developer Support
 * Website design and development
 * Shopify Developer Support
 * Landing page developer
-* HubSpot Developer Support
 
 ## 📫 Free Remote Consultations Available
 
@@ -98,13 +99,23 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 
 * [Mail](mailto:aburaihankabir@gmail.com)
 * [WhatsApp ❤️](https://wa.me/8801862521286)
+* [Skype ❤️](https://join.skype.com/invite/bkT0wATOfG3n)
+* [Zoom ❤️](https://us04web.zoom.us/j/9653857223?pwd=ZUdsbWFRMUZtQStydWJFUjloRUt3Zz09)
 * [Portfolio](https://dev.freeblood.org/)
 * [Linkedin](https://www.linkedin.com/in/raihanbabu)
 * [Twitter](https://twitter.com/raihanbabubd)
 * [Instagram](https://www.instagram.com/raihanbabubd)
 * [Facebook](https://www.facebook.com/raihanbabubd)
 
-<!-- ![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4) -->
+<!--
+  Join Zoom Meeting
+  https://us04web.zoom.us/j/9653857223?pwd=ZUdsbWFRMUZtQStydWJFUjloRUt3Zz09
+
+  Meeting ID: 965 385 7223
+  Passcode: 3F94F5
+-->
+
+<!-- ![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4)
 
 **raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
