@@ -92,8 +92,16 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 
 ## 📫 Free Remote Consultations Available
 
-* ❤️[Mail](mailto:aburaihankabir@gmail.com)
-* [WhatsApp](https://wa.me/8801862521286)
+<p>
+  <a href="https://www.upwork.com/freelancers/raihanbabu">
+    <img alt="Raihan Babu Upwork" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/250px-Upwork_Logo.svg.png" width="150px" title="ⓦ Experienced Web developer #Upwork #Shopify #WordPress #HubSpot" /></a>
+    ,
+  <a href="https://www.linkedin.com/in/raihanbabu">
+    <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/></a>
+</p>
+
+* [Mail](mailto:aburaihankabir@gmail.com)
+* ❤️ [WhatsApp](https://wa.me/8801862521286)
 * [Portfolio](https://dev.freeblood.org/)
 * [Linkedin](https://www.linkedin.com/in/raihanbabu)
 * [Twitter](https://twitter.com/raihanbabubd)
