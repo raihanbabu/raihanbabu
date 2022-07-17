@@ -4,16 +4,16 @@
 
 ### ⓦ Experienced Web developer #shopify #wordpress #hubspot
 
-## #Hire me..
+### Hire me..
 
 <p>
   <a href="https://www.upwork.com/freelancers/raihanbabubd">
-    <img alt="Raihan Babu Upwork" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/250px-Upwork_Logo.svg.png" width="200px" title="ⓦ Experienced Web developer #Upwork #Shopify #WordPress #HubSpot" /></a> 
+    <img alt="Raihan Babu Upwork" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/250px-Upwork_Logo.svg.png" width="150px" title="ⓦ Experienced Web developer #Upwork #Shopify #WordPress #HubSpot" /></a>
 <!--  <a href="https://www.fiverr.com/wordpress48hour">
     <img alt="Raihan Babu Fiverr" title="WordPress Developer Fiverr Raihan Babu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/1280px-Fiverr_Logo_09.2020.svg.png" width="200px" /></a> -->
     , 
 <a href="https://www.linkedin.com/in/raihanbabu">
-    <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" /></a> 
+    <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/></a>
 </p>
 
 
@@ -84,7 +84,7 @@ Raihan
 ### Web Developer | TFC Marketing
 He has been working as a web developer at tfc.marketing. he is a resilient hard-working individual who is self-motivated & passionate about learning new skills quickly & having the ability to build a great relationship. he is seeking a position where he can grow with the company and utilize his strengths.
 
-His achieved:
+#### His achieved:
 
 * building custom theme & plugin
 * customizing theme & plugin
