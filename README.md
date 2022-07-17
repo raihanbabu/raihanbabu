@@ -28,10 +28,6 @@
 
 ## About
 
-<!--
-![Algorithm schema](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/284275710_1877682365755339_7400682694355318265_n.jpg?stp=c471.391.696.695a_dst-jpg_s160x160&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Q8oEr65If1wAX8ILKWF&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9gLI3G6NJHsIgf9FlDico1Wbw43aJ3SaNx5NHqTAC45Q&oe=62D7FA96)
-![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4) -->
-
 ♛ Top Rated by [Upwork](https://www.upwork.com/freelancers/raihanbabu) 👇🏼
 
 Professional experienced in WordPress development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
@@ -86,11 +82,11 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 
 ## Services
 
-* Website design and development
 * WordPress Developer Support
+* Website design and development
 * Shopify Developer Support
+* Landing page developer
 * HubSpot Developer Support
-* Landing page designer & developer
 
 ## 📫 Free Remote Consultations Available
 
@@ -109,6 +105,8 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [Twitter](https://twitter.com/raihanbabubd)
 * [Instagram](https://www.instagram.com/raihanbabubd)
 * [Facebook](https://www.facebook.com/raihanbabubd)
+
+<!-- ![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4) -->
 
 **raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -129,3 +127,4 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+-->
