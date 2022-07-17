@@ -31,11 +31,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## Table of contents
+* [About](#about)
+* [Technical Skills](#technical-skills)
+* [Certificate List](#certificate-list)
+* [His experienced](#his-experienced)
+* [Services](#services)
+* [Free Remote Consultations Available](#free-remote-consultations-available)
+* [Setup](#setup)
+
+
+## About
+
 ♛ Top Rated by Upwork 👇🏼
 
 Professional experienced in WordPress development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
 
-### His experienced 
+He is a resilient hard-working individual who is self-motivated, detail-oriented & passionate about trying new things & learning new skills quickly and have the ability to build great Teamwork and utilize his strengths.
+
+Thank you for your time and consideration. look forward to speaking with you.
+
+Sincerely,
+
+Raihan
+
+### His experienced
 
 * Hosting setup (DNS, etc)
 * Website set-up, launch site & Migration
@@ -52,41 +73,18 @@ Professional experienced in WordPress development for more than a half-decade he
 * API Integration
 * & maintenance
 
-He is a resilient hard-working individual who is self-motivated, detail-oriented & passionate about trying new things & learning new skills quickly and have the ability to build great Teamwork and utilize his strengths.
-
-Thank you for your time and consideration. look forward to speaking with you.
-
-Sincerely,
-Raihan
+## Technical Skills
 
 👇🏼
+
 #wordpress #hubspot #clickfunnels #php #javascript #git
-
-
-## Table of contents
-* [About](#about)
-* [Technical Skills](#technical-skills)
-* [Certificate List](#certificate-list)
-* [Experience](#experience)
-* [Services](#services)
-* [Free Remote Consultations Available](#free-remote-consultations-available)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## About
-This project is simple Lorem ipsum dolor generator.
-
-## Technical Skills
-This project is simple Lorem ipsum dolor generator.
 
 ## Certificate List
 * [CSS certified by HackerRank](https://www.hackerrank.com/certificates/0c8afdd1da79)
-* [Responsive Web Design Certification](https://www.freecodecamp.org/certification/raihanbabu/responsive-web-design)
+* [Responsive Web Design Certification by freeCodeCamp](https://www.freecodecamp.org/certification/raihanbabu/responsive-web-design)
 * [WordPress Elementor Certification by TemplateMonster](https://certification.templatemonster.com/certificates/7433007f99f5d9ec4730358fa16f5515/)
 * [Certified HubSpot CMS Developer](https://app.hubspot.com/academy/achievements/kbp4lkyv/en/1/raihan-babu/hubspot-cms-for-developers)
 * [The Basics of Maintaining Client Sites at Scale](https://academy.kinsta.com/certificate/fec07151-9d51-431b-9aed-3d04c74aaf8e/pdf/The%20Basics%20of%20Maintaining%20Client%20Sites%20at%20Scale)
-
-## Experience
 
 ### Web Developer | TFC Marketing
 He has been working as a web developer at tfc.marketing. he is a resilient hard-working individual who is self-motivated & passionate about learning new skills quickly & having the ability to build a great relationship. he is seeking a position where he can grow with the company and utilize his strengths.
@@ -108,12 +106,6 @@ His achieved:
 ## Free Remote Consultations Available
 
 
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-
 ## Setup
 To run this project, install it locally using npm:
 
@@ -123,11 +115,4 @@ $ npm install
 $ npm start
 ```
 ![Algorithm schema](./images/schema.jpg)
-
-## Code Examples
-To generate lorem ipsum use special shortcode: `put-your-code-here`
-
-## Sources
-This app is inspired by Rando Kim book „Time of Your Life”
-and Android app tutorial by [@eericon](https://www.eericon.github.io/post/timer-android)
 
