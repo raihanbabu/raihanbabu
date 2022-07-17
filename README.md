@@ -16,30 +16,16 @@
     <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" /></a> 
 </p>
 
-<!--
-**raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-# Journey
+# His Journey
 * [About](#about)
 * [Technical Skills](#technical-skills)
 * [Certificate List](#certificate-list)
 * [His experienced](#his-experienced)
 * [Work experienced](#work-experienced)
 * [Services](#services)
-* [Free Remote Consultations Available](#free-remote-consultations-available)
+* [Free Remote Consultations Available👇🏼](#free-remote-consultations-available)
 * [Setup](#setup)
 
 
@@ -79,9 +65,12 @@ Raihan
 
 ## Technical Skills
 
-👇🏼
-
-#wordpress #hubspot #clickfunnels #php #javascript #git
+#WordPress
+#HubSpot
+#ClickFunnels
+#PHP
+#JavaScript
+#Git
 
 ## Certificate List
 * [CSS certified by HackerRank](https://www.hackerrank.com/certificates/0c8afdd1da79)
@@ -109,16 +98,25 @@ His achieved:
 * WordPress Website Development
 * HubSpot Website Developmen
 
-## Free Remote Consultations Available
+## 📫 Free Remote Consultations Available
 
 
-## Setup
-To run this project, install it locally using npm:
+**raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 ```
 $ cd ../lorem
 $ npm install
 $ npm start
 ```
-![Algorithm schema](./images/schema.jpg)
-
