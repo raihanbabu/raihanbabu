@@ -1,6 +1,6 @@
 ## 👋 Welcome!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer;Elementor+Pro+Expert;And+more...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer;Elementor+Pro+Expert;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
 
 ### ⓦ Experienced Web developer #shopify #wordpress #hubspot
 
@@ -21,15 +21,14 @@
 * [Technical Skills](#technical-skills)
 * [Certificate List](#certificate-list)
 * [His experienced](#his-experienced)
-* [Work experienced](#work-experienced)
+* [Work experienced](#-work-experienced)
 * [Services](#services)
 * [Free Remote Consultations Available👇🏼](#-free-remote-consultations-available)
-* [Setup](#setup)
-
 
 ## About
 
 ![Algorithm schema](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/284275710_1877682365755339_7400682694355318265_n.jpg?stp=c471.391.696.695a_dst-jpg_s160x160&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Q8oEr65If1wAX8ILKWF&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9gLI3G6NJHsIgf9FlDico1Wbw43aJ3SaNx5NHqTAC45Q&oe=62D7FA96)
+![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4)
 
 ♛ Top Rated by Upwork 👇🏼
 
@@ -77,7 +76,7 @@ Raihan
 * [Certified HubSpot CMS Developer](https://app.hubspot.com/academy/achievements/kbp4lkyv/en/1/raihan-babu/hubspot-cms-for-developers)
 * [The Basics of Maintaining Client Sites at Scale](https://academy.kinsta.com/certificate/fec07151-9d51-431b-9aed-3d04c74aaf8e/pdf/The%20Basics%20of%20Maintaining%20Client%20Sites%20at%20Scale)
 
-## Work experienced
+## 🔭 Work experienced
 
 ### Web Developer | TFC Marketing
 He has been working as a web developer at tfc.marketing. he is a resilient hard-working individual who is self-motivated & passionate about learning new skills quickly & having the ability to build a great relationship. he is seeking a position where he can grow with the company and utilize his strengths.
@@ -92,12 +91,14 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * on-going maintenance
 
 ## Services
+
 * Web design and development
 * WordPress Website Development
 * HubSpot Website Developmen
 
 ## 📫 Free Remote Consultations Available
 
+* ❤️
 
 **raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
