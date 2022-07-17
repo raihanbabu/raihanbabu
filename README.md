@@ -18,8 +18,8 @@
 
 # His Journey
 * [About](#about)
-* [Technical Skills](#technical-skills)
-* [Certificate List](#certificate-list)
+* [Skills](#skills)
+* [Certificate](#certificate)
 * [His experienced](#his-experienced)
 * [Work experienced](#-work-experienced)
 * [Services](#services)
@@ -27,8 +27,9 @@
 
 ## About
 
+<!--
 ![Algorithm schema](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/284275710_1877682365755339_7400682694355318265_n.jpg?stp=c471.391.696.695a_dst-jpg_s160x160&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Q8oEr65If1wAX8ILKWF&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9gLI3G6NJHsIgf9FlDico1Wbw43aJ3SaNx5NHqTAC45Q&oe=62D7FA96)
-![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4)
+![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4) -->
 
 ♛ Top Rated by Upwork 👇🏼
 
@@ -42,8 +43,9 @@ Sincerely,
 
 Raihan
 
+## Skills
 
-## His experienced
+* #WordPress #HubSpot #PHP #JavaScript #Git
 
 * Hosting setup (DNS, etc)
 * Website set-up, launch site & Migration
@@ -59,15 +61,6 @@ Raihan
 * WordPress Developer Support
 * API Integration
 * & maintenance
-
-## Technical Skills
-
-#WordPress
-#HubSpot
-#ClickFunnels
-#PHP
-#JavaScript
-#Git
 
 ## Certificate List
 * [CSS certified by HackerRank](https://www.hackerrank.com/certificates/0c8afdd1da79)
