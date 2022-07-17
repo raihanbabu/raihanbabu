@@ -1,6 +1,6 @@
 ## 👋 Welcome!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;and+Web+Designer;WordPress+Developer;Elementor+Pro+Expert;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;Landing+page+developer+and+Web+Designer;WordPress+Developer+and+Elementor+Pro+Expert;Certified+HubSpot+CMS+Developer;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
 
 ### ⓦ Experienced Web developer #shopify #wordpress #hubspot
 
@@ -31,7 +31,7 @@
 ![Algorithm schema](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-1/284275710_1877682365755339_7400682694355318265_n.jpg?stp=c471.391.696.695a_dst-jpg_s160x160&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Q8oEr65If1wAX8ILKWF&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9gLI3G6NJHsIgf9FlDico1Wbw43aJ3SaNx5NHqTAC45Q&oe=62D7FA96)
 ![Algorithm schema](https://avatars.githubusercontent.com/u/16900279?v=4) -->
 
-♛ Top Rated by Upwork 👇🏼
+♛ Top Rated by [Upwork](https://www.upwork.com/freelancers/raihanbabu) 👇🏼
 
 Professional experienced in WordPress development for more than a half-decade helping business owners and agencies run successful, highly effective WordPress websites by providing high-quality services.
 
