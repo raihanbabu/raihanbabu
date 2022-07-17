@@ -25,7 +25,7 @@
 * [His experienced](#his-experienced)
 * [Work experienced](#work-experienced)
 * [Services](#services)
-* [Free Remote Consultations Available👇🏼](#free-remote-consultations-available)
+* [Free Remote Consultations Available👇🏼](#-free-remote-consultations-available)
 * [Setup](#setup)
 
 
