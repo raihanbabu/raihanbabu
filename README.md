@@ -1,6 +1,6 @@
 ## 👋 Welcome!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+Developer;Landing+page+developer+and+Web+Designer;WordPress+Developer+and+Elementor+Pro+Expert;Certified+HubSpot+CMS+Developer;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+developer;Landing+page+developer+&+web+wesigner;WordPress+Developer+&+Elementor+Expert;Certified+HubSpot+CMS+Developer;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
 
 ### ⓦ Experienced Web developer #shopify #wordpress #hubspot
 
@@ -22,6 +22,7 @@
 * [Certificate](#certificate)
 * [His experienced](#his-experienced)
 * [Work experienced](#-work-experienced)
+* [🤗 Contributing](#-contributing)
 * [Services](#services)
 * [Free Remote Consultations Available👇🏼](#-free-remote-consultations-available)
 
@@ -91,7 +92,13 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 
 ## 📫 Free Remote Consultations Available
 
-* ❤️
+* ❤️[Mail](mailto:aburaihankabir@gmail.com)
+* [WhatsApp](https://wa.me/8801862521286)
+* [Portfolio](https://dev.freeblood.org/)
+* [Linkedin](https://www.linkedin.com/in/raihanbabu)
+* [Twitter](https://twitter.com/raihanbabubd)
+* [Instagram](https://www.instagram.com/raihanbabubd)
+* [Facebook](https://www.facebook.com/raihanbabubd)
 
 **raihanbabu/raihanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
