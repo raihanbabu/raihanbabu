@@ -86,9 +86,11 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 
 ## Services
 
-* Web design and development
-* WordPress Website Development
-* HubSpot Website Developmen
+* Website design and development
+* WordPress Developer Support
+* Shopify Developer Support
+* HubSpot Developer Support
+* Landing page designer & developer
 
 ## 📫 Free Remote Consultations Available
 
