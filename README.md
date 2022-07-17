@@ -1,8 +1,8 @@
 ## 👋 Welcome!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+developer;Landing+page+developer+&+web+wesigner;WordPress+Developer+&+Elementor+Expert;Certified+HubSpot+CMS+Developer;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+developer;Landing+page+developer+&+web+designer;WordPress+Developer+&+Elementor+Expert;Certified+HubSpot+CMS+Developer;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
 
-### ⓦ Experienced Web developer #shopify #wordpress #hubspot
+#### ⓦ Experienced Web developer #shopify #wordpress #hubspot
 
 ### [Hire me..](https://www.upwork.com/freelancers/raihanbabu)
 
@@ -103,7 +103,7 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 </p>
 
 * [Mail](mailto:aburaihankabir@gmail.com)
-* ❤️ [WhatsApp](https://wa.me/8801862521286)
+* [WhatsApp ❤️](https://wa.me/8801862521286)
 * [Portfolio](https://dev.freeblood.org/)
 * [Linkedin](https://www.linkedin.com/in/raihanbabu)
 * [Twitter](https://twitter.com/raihanbabubd)
