@@ -1,6 +1,6 @@
 ## 👋 Welcome!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+developer;Landing+page+developer+&+web+designer;WordPress+Developer+&+Elementor+Expert;Certified+HubSpot+CMS+Developer;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&duration=9000&height=150&color=1F6BFF&&multiline=true&lines=Nice+to+meet+you...;I'm+a+Full+Stack+Web+developer;Landing+page+developer+&+web+designer;WordPress+Developer+&+Elementor+Expert;Certified+HubSpot+CMS+Developer;And+more...)](https://www.upwork.com/freelancers/raihanbabu)
 
 #### ⓦ Experienced Web developer #shopify #wordpress #hubspot
 
