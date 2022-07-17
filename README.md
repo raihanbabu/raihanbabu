@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Table of contents
+# Journey
 * [About](#about)
 * [Technical Skills](#technical-skills)
 * [Certificate List](#certificate-list)
