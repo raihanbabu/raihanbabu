@@ -81,12 +81,13 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 ```
 
 ## Services
-
+```
 * HubSpot Developer Support
 * WordPress Developer Support
 * Website design and development
 * Shopify Developer Support
 * Landing page developer
+```
 
 ## 📫 Free Remote Consultations Available
 
