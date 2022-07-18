@@ -224,7 +224,7 @@ And more continue...
     <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/> Linkedin </a>
     ,
   <a href="https://calendly.com/raihanbabu" title="Calendly - Raihan">
-    <img alt="Raihan Babu | Calendly" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="hhttps://raw.githubusercontent.com/raihanbabu/RaihanBabu/854d4cd3845b9461e558c73037743bb09b94265e/Imgs/calendly.svg" width="150px"/></a>
+    <img alt="Raihan Babu | Calendly" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/c529be5e443f32d4dffae20118c1afa4d32cd90c/Imgs/calendly.svg" width="150px"/></a>
     ,
   <a href="https://wa.me/8801862521286" title="WhatsApp - Raihan">
     <img alt="Raihan Babu | WhatsApp" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/whatsapp.png" width="150px"/></a>
@@ -233,7 +233,7 @@ And more continue...
     <img alt="Raihan Babu | Zoom" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/zoom.png" width="150px"/></a>
     ,
   <a href="https://join.skype.com/invite/bkT0wATOfG3n" title="Skype - Raihan">
-    <img alt="Raihan Babu | Skype" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/skype.png" width="150px"/></a>
+    <img alt="Raihan Babu | Skype" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/skype.png" height="50px"/></a>
 </p>
 
 * [Mail](mailto:aburaihankabir@gmail.com)
