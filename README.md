@@ -132,11 +132,11 @@ Lizzy Z. | Owner at Lizzy Zawy Public Relations
 ## Client Reviews
 <details>
 <summary style="font-size:14px">View reviews</summary>
-```
+\```
 A complete lifesaver and the most amazing Wordpress genius on here. So patient and he works so quickly. My last guy really messed me up, I had trust issues and Raihan really saved my but. He knows how to take your Wordpress site to the next level. Don't look any further. hire him!
 
 Youmie Jean Francois | Founder & CEO at Flexnfly
-```
+\```
 </details>
 
 ## 📫 Free Remote Consultations Available
