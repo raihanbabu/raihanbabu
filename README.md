@@ -100,19 +100,19 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 
 ```
 "I absolutely recommend Raihan and will continue to use him for all my wordpress needs. Raihan has been able to handle everything thrown at him; migrating an entire website design from a custom website to wordpress, creating a multiregion website for international expansion, adding in IP redirections and repairing the website when the server overloads."
-
+👇🏼
 Nik S. | Growth Manager at Muso
 ```
 
 ```
 "Raihan is a very skilled web developer that I myself recommend to all my clients and friends. I highly endorse him to anyone looking for a great WordPress or graphic designer. He handles everything from building sites from scratch, cloning existing designs and always communicates very well. "
-
+👇🏼
 Rouel P. | Digital Consultant at RMP Business Solutions NV
 ```
 
 ```
 "I hired Raihan for a website project and he was so easy and lovely to work with. His communication on the project, care and quick completion will make me work with him on future projects. He completes the projects very quickly and does the best job of making sure you're happy. He is polite, honest and wants to get the job done efficiently so you are happy."
-
+👇🏼
 Lizzy Z. | Owner at Lizzy Zawy Public Relations
 ```
 
