@@ -222,6 +222,9 @@ And more continue...
     ,
   <a href="https://www.linkedin.com/in/raihanbabu">
     <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/></a>
+    ,
+  <a href="https://www.linkedin.com/in/raihanbabu">
+    <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/></a>
 </p>
 
 * [Mail](mailto:aburaihankabir@gmail.com)
