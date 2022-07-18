@@ -23,9 +23,10 @@
 * [Contributing](#contributing)
 * [His experienced](#his-experienced)
 * [Work experienced](#-work-experienced)
-* [Recent work](#recnet-work)
 * [Services](#services)
+* [Recent work](#recnet-work)
 * [Testimonial](#testimonial)
+* [Client Reviews](#client-reviews)
 * [Free Remote Consultations Available👇🏼](#-free-remote-consultations-available)
 
 ## About
@@ -96,25 +97,6 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * Shopify Developer Support
 * Landing page developer
 ```
-## Testimonial
-
-```
-"I absolutely recommend Raihan and will continue to use him for all my wordpress needs. Raihan has been able to handle everything thrown at him; migrating an entire website design from a custom website to wordpress, creating a multiregion website for international expansion, adding in IP redirections and repairing the website when the server overloads."
-👇🏼
-**Nik S. | Growth Manager at Muso**
-```
-
-```
-"Raihan is a very skilled web developer that I myself recommend to all my clients and friends. I highly endorse him to anyone looking for a great WordPress or graphic designer. He handles everything from building sites from scratch, cloning existing designs and always communicates very well. "
-👇🏼
-**Rouel P. | Digital Consultant at RMP Business Solutions NV**
-```
-
-```
-"I hired Raihan for a website project and he was so easy and lovely to work with. His communication on the project, care and quick completion will make me work with him on future projects. He completes the projects very quickly and does the best job of making sure you're happy. He is polite, honest and wants to get the job done efficiently so you are happy."
-👇🏼
-**Lizzy Z. | Owner at Lizzy Zawy Public Relations**
-```
 
 ## Recent work
 * [Muso | Book Live Entertainment Across Australia](https://muso.live)
@@ -126,6 +108,36 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [We Buy Apartment Complexes &amp; Buildings | Easy Apartments Buyer](https://easyapartmentsbuyer.com)
 * [Influicity](https://www.influicity.com)
 * And more..
+
+## Testimonial
+
+```
+"I absolutely recommend Raihan and will continue to use him for all my wordpress needs. Raihan has been able to handle everything thrown at him; migrating an entire website design from a custom website to wordpress, creating a multiregion website for international expansion, adding in IP redirections and repairing the website when the server overloads."
+👇🏼
+Nik S. | Growth Manager at Muso
+```
+
+```
+"Raihan is a very skilled web developer that I myself recommend to all my clients and friends. I highly endorse him to anyone looking for a great WordPress or graphic designer. He handles everything from building sites from scratch, cloning existing designs and always communicates very well. "
+👇🏼
+Rouel P. | Digital Consultant at RMP Business Solutions NV
+```
+
+```
+"I hired Raihan for a website project and he was so easy and lovely to work with. His communication on the project, care and quick completion will make me work with him on future projects. He completes the projects very quickly and does the best job of making sure you're happy. He is polite, honest and wants to get the job done efficiently so you are happy."
+👇🏼
+Lizzy Z. | Owner at Lizzy Zawy Public Relations
+```
+
+## Client Reviews
+<details>
+<summary style="font-size:14px">View reviews</summary>
+```
+A complete lifesaver and the most amazing Wordpress genius on here. So patient and he works so quickly. My last guy really messed me up, I had trust issues and Raihan really saved my but. He knows how to take your Wordpress site to the next level. Don't look any further. hire him!
+
+Youmie Jean Francois | Founder & CEO at Flexnfly
+```
+</details>
 
 ## 📫 Free Remote Consultations Available
 
