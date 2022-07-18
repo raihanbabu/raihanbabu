@@ -221,7 +221,7 @@ And more continue...
     <img alt="Raihan Babu Upwork" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/250px-Upwork_Logo.svg.png" width="150px" title="ⓦ Experienced Web developer #Upwork #Shopify #WordPress #HubSpot" /></a>
     ,
   <a href="https://www.linkedin.com/in/raihanbabu" style="display: inline-flex;align-items: center;">
-    <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/></a> Linkedin
+    <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/> Linkedin </a>
     ,
   <a href="https://calendly.com/raihanbabu">
     <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/b7dd0ee9e58f3a7c5abce197171f430fe96eba61/calendly.svg" width="150px"/></a>
