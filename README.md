@@ -123,7 +123,6 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [Zoom ❤️](https://us04web.zoom.us/j/9653857223?pwd=ZUdsbWFRMUZtQStydWJFUjloRUt3Zz09)
 * [Portfolio](https://dev.freeblood.org/)
 * [Linkedin](https://www.linkedin.com/in/raihanbabu)
-
 * [Twitter](https://twitter.com/raihanbabubd)
 * [Instagram](https://www.instagram.com/raihanbabubd)
 * [Facebook](https://www.facebook.com/raihanbabubd)
