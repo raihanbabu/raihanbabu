@@ -172,20 +172,44 @@ Paul | Productivity and Leadership Coach at Paulthompsoncoaching.com
 
 👇🏼
 
+Have worked with Raihan for two modern website design. My business simply would not be anywhere near as successful as it it today without his vast amount of skills and input. Raihan is a great man and a great leader of his team. He takes care of all the UX of my website. He is awesome. Great guy. This is one guy you'll should use . He understands what you want and need and he delivers . His work ethics is amazing. so far he is my topmost fiver gig .. I will be using him going forward.
 
-
-👇🏼
-
-
+Amaka | THOUGHTS AND PURPOSES MASTERMIND at Thoughtsandpurposes.com
 
 👇🏼
 
+Super professional super fast if you need quality work done in a timely manner dont go anywhere else he is your man im very satisfied.
 
+Millionairefour at Amazingsellingmachine.com
 
 👇🏼
 
+Top man :) I will definitely work with him again he done a excellent job and very quick not like other freelancer he knows what he is doing! A professional with Wordpress fix thank you so much!
+
+Excellent guy done a fresh new design on my wordpress definitely recommend to all top man.
+
+Snowy | Discountedstamps.org
+
+👇🏼
+
+Raihan was absolutely amazing to work with. The deadlines were met with ease,great communication, made very quick changes and overall custom built my landing page to look exactly how it did on the designs. Would highly recommend to anyone needing a custom WordPress build.
+
+My second time using Raihan and as always, the job was fantastic.
 
 
+This is my third time working with Raihan and again, I'm very satisfied with the results.
+
+Melweiss | Freelance agency owner
+
+👇🏼
+
+Works fast ! Very detailed and makes sure his clients are satisfied. Will work again with him soon!
+
+Omar Ashour | Teacher at Wavy English(wavyenglish.com)
+
+👇🏼
+
+And more continue...
 
 ```
 </details>
