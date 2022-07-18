@@ -131,12 +131,62 @@ Lizzy Z. | Owner at Lizzy Zawy Public Relations
 
 ## Client Reviews
 <details>
-<summary style="font-size:14px">View reviews</summary>
+<summary style="font-size:14px">View client reviews</summary>
 
 ```
 A complete lifesaver and the most amazing Wordpress genius on here. So patient and he works so quickly. My last guy really messed me up, I had trust issues and Raihan really saved my but. He knows how to take your Wordpress site to the next level. Don't look any further. hire him!
 
-Youmie Jean Francois | Founder & CEO at Flexnfly
+Youmie Jean Francois | Founder & CEO at Flexnfly(Yoga & Travel wellness)
+
+👇🏼
+
+I had some bugs and other issues with my Wordpress side. Raihan was able to fix those bugs and issues very quickly and all this for a fair price. The communication was although very good, he talks fluent english and always responses very quickly to messages. To summ it up, I was really happy with the result and the service.
+
+Samuel Letsch | Passionate about photography & filmmaking at samuelletsch.ch
+
+👇🏼
+
+Raihan is just a outstanding talent with delivering solutions to Wordpress problems. If anybody needs a good hire I highly recommend this guy. I have been working with him for over a year now.
+
+My favorite seller on Fiverr. I always think about hiring Raihan before anyone because he is very skilled and a good professional in especially webdesiging. But basically he can do any task you throw at him.
+
+Romaple | Freelance agency owner
+
+👇🏼
+
+One of the cooperative freelancer I ever hired. He did the work before the time limit ends. He took care of my site and it's better than before now. I highly recommend everyone to hire him if they need anyone to get the job done. Regards, Shazia Saeed, CEO of rainofbeauty.com
+
+Shazia Saeed | CEO of rainofbeauty.com
+
+👇🏼
+
+I had a pesky plug-in bug that rendered changes to my Wordpress website useless. As a non-technical guy it would have taken me countless hours to work out and fix, and probably at great risk. Instead, I used WordPress48Hour and within a few email exchanges and an hour or so, and a small fee, the problem was fixed!
+
+Roderick Lambert | Life & Executive Coaching – Mentoring – Career Guidance at Zivotjezmena.cz
+
+👇🏼
+
+Super easy and solved my problem with Wordpress quickly. Really helpful and able to explain all well. Will definitely use again and recommend the service.
+
+Paul | Productivity and Leadership Coach at Paulthompsoncoaching.com
+
+👇🏼
+
+
+
+👇🏼
+
+
+
+👇🏼
+
+
+
+👇🏼
+
+
+
+
 ```
 </details>
 
