@@ -116,7 +116,7 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
   <a href="https://www.linkedin.com/in/raihanbabu">
     <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/></a>
 </p>
-```
+
 * [Mail](mailto:aburaihankabir@gmail.com)
 * [WhatsApp ❤️](https://wa.me/8801862521286)
 * [Skype ❤️](https://join.skype.com/invite/bkT0wATOfG3n)
@@ -126,7 +126,7 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [Twitter](https://twitter.com/raihanbabubd)
 * [Instagram](https://www.instagram.com/raihanbabubd)
 * [Facebook](https://www.facebook.com/raihanbabubd)
-```
+
 
 <!--
   Join Zoom Meeting
