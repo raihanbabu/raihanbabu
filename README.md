@@ -221,22 +221,22 @@ And more continue...
     <img alt="Raihan Babu | Upwork" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/250px-Upwork_Logo.svg.png" width="140px" title="ⓦ Experienced Web developer #Upwork #Shopify #WordPress #HubSpot" /></a>
     ,
   <a href="mailto:aburaihankabir@gmail.com">
-    <img alt="Raihan Babu | Gmail" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/gmail.png" width="40px"/> </a>
+    <img alt="Raihan Babu | Gmail" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/gmail.png" width="50px"/> </a>
     ,
   <a href="https://www.linkedin.com/in/raihanbabu">
     <img alt="Raihan Babu | linkedin" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" width="40px"/> </a>
     ,
   <a href="https://calendly.com/raihanbabu" title="Calendly - Raihan">
-    <img alt="Raihan Babu | Calendly" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/c529be5e443f32d4dffae20118c1afa4d32cd90c/Imgs/calendly.svg" width="140px"/></a>
+    <img alt="Raihan Babu | Calendly" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/c529be5e443f32d4dffae20118c1afa4d32cd90c/Imgs/calendly.svg" width="130px"/></a>
     ,
   <a href="https://wa.me/8801862521286" title="WhatsApp - Raihan">
     <img alt="Raihan Babu | WhatsApp" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/whatsapp.png" width="140px"/></a>
     ,
   <a href="https://us04web.zoom.us/j/9653857223?pwd=ZUdsbWFRMUZtQStydWJFUjloRUt3Zz09" title="Zoom - Raihan">
-    <img alt="Raihan Babu | Zoom" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/zoom.png" width="140px"/></a>
+    <img alt="Raihan Babu | Zoom" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/zoom.png" width="120px"/></a>
     ,
   <a href="https://join.skype.com/invite/bkT0wATOfG3n" title="Skype - Raihan">
-    <img alt="Raihan Babu | Skype" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/skype.png" height="50px"/></a>
+    <img alt="Raihan Babu | Skype" title="ⓦ Experienced Web developer #shopify #wordpress #hubspot" src="https://raw.githubusercontent.com/raihanbabu/RaihanBabu/main/Imgs/skype.png" height="40px"/></a>
 </p>
 
 
