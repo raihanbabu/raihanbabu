@@ -21,7 +21,6 @@
 * [Skills](#skills)
 * [Certificate](#certificate)
 * [Contributing](#contributing)
-* [His experienced](#his-experienced)
 * [Work experienced](#-work-experienced)
 * [Services](#services)
 * [Recent work](#recnet-work)
