@@ -103,9 +103,9 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [Organise live entertainment in minutes | Muso UK](https://muso.live/uk)
 * [Sell My House Fast Or Hold Onto The Property?](https://fastesthomesale.com)
 * [Buying Apartment Buildings](https://buyingapartmentbuildings.com)
+* [Influicity](https://www.influicity.com)
 * [Savvy Pioneer | Your Partner In Marketing Technology (MarTech)](https://www.savvypioneer.com)
 * [We Buy Apartment Complexes &amp; Buildings | Easy Apartments Buyer](https://easyapartmentsbuyer.com)
-* [Influicity](https://www.influicity.com)
 * [Broughton | Accelerating Life-Enhancing Products to Market](https://www.broughton-group.com)
 * And more..
 
