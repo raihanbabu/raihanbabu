@@ -105,6 +105,7 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [Buying Apartment Buildings](https://buyingapartmentbuildings.com)
 * [Influicity](https://www.influicity.com)
 * [Savvy Pioneer | Your Partner In Marketing Technology (MarTech)](https://www.savvypioneer.com)
+* [LandScouts – Sell Land Fast](https://sell.landscouts.com)
 * [We Buy Apartment Complexes &amp; Buildings | Easy Apartments Buyer](https://easyapartmentsbuyer.com)
 * [Broughton | Accelerating Life-Enhancing Products to Market](https://www.broughton-group.com)
 * And more..
