@@ -242,7 +242,7 @@ And more continue...
 </p>
 
 
-* [Portfolio](https://dev.freeblood.org)
+* [Portfolio](https://banow.net)
 * [Digital CV](https://github.com/raihanbabu)
 
 <!-- https://cv.freeblood.org/wordpress/ -->
