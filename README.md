@@ -19,7 +19,7 @@
 # His Journey
 * [About](#about)
 * [Skills](#skills)
-* [Certificate](#certificate)
+* [Certificate](#certificate-list)
 * [Contributing](#contributing)
 * [Work experienced](#-work-experienced)
 * [Services](#services)
