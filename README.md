@@ -64,7 +64,8 @@ Raihan
 * [CSS certified by HackerRank](https://www.hackerrank.com/certificates/0c8afdd1da79)
 * [Responsive Web Design Certification by freeCodeCamp](https://www.freecodecamp.org/certification/raihanbabu/responsive-web-design)
 * [WordPress Elementor Certification by TemplateMonster](https://certification.templatemonster.com/certificates/7433007f99f5d9ec4730358fa16f5515/)
-* [Certified HubSpot CMS Developer](https://app.hubspot.com/academy/achievements/kbp4lkyv/en/1/raihan-babu/hubspot-cms-for-developers)
+* [Inbound Certified]([https://app.hubspot.com/academy/achievements/kbp4lkyv/en/1/raihan-babu/hubspot-cms-for-developers](https://app.hubspot.com/academy/achievements/mdj1fxpv/en/1/raihan-babu/inbound))
+* [Certified HubSpot CMS Developer]([https://app.hubspot.com/academy/achievements/kbp4lkyv/en/1/raihan-babu/hubspot-cms-for-developers](https://app.hubspot.com/academy/achievements/mdj1fxpv/en/1/raihan-babu/inbound))
 * [The Basics of Maintaining Client Sites at Scale](https://academy.kinsta.com/certificate/fec07151-9d51-431b-9aed-3d04c74aaf8e/pdf/The%20Basics%20of%20Maintaining%20Client%20Sites%20at%20Scale)
 
 ## Contributing
@@ -110,7 +111,7 @@ He has been working as a web developer at tfc.marketing. he is a resilient hard-
 * [Broughton | Accelerating Life-Enhancing Products to Market](https://www.broughton-group.com)
 * And more..
 
-## Testimonial
+## Client Testimonial
 
 ```
 "I absolutely recommend Raihan and will continue to use him for all my wordpress needs. Raihan has been able to handle everything thrown at him; migrating an entire website design from a custom website to wordpress, creating a multiregion website for international expansion, adding in IP redirections and repairing the website when the server overloads."
